@@ -1,0 +1,11 @@
+C:\Users\aleks\Desktop\Dev\CLox\bin\Debug\netcoreapp3.0\CLox.exe
+C:\Users\aleks\Desktop\Dev\CLox\bin\Debug\netcoreapp3.0\CLox.deps.json
+C:\Users\aleks\Desktop\Dev\CLox\bin\Debug\netcoreapp3.0\CLox.runtimeconfig.json
+C:\Users\aleks\Desktop\Dev\CLox\bin\Debug\netcoreapp3.0\CLox.runtimeconfig.dev.json
+C:\Users\aleks\Desktop\Dev\CLox\bin\Debug\netcoreapp3.0\CLox.dll
+C:\Users\aleks\Desktop\Dev\CLox\bin\Debug\netcoreapp3.0\CLox.pdb
+C:\Users\aleks\Desktop\Dev\CLox\obj\Debug\netcoreapp3.0\CLox.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\Dev\CLox\obj\Debug\netcoreapp3.0\CLox.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Dev\CLox\obj\Debug\netcoreapp3.0\CLox.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Dev\CLox\obj\Debug\netcoreapp3.0\CLox.dll
+C:\Users\aleks\Desktop\Dev\CLox\obj\Debug\netcoreapp3.0\CLox.pdb
